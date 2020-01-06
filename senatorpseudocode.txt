@@ -1,0 +1,28 @@
+# Jason Polanco
+#10/17/19
+# This program will determine if user is eligible for a seat in the U.S. Senate
+#Or house of representatives
+
+
+#Initialize and declare variables age and name and citizenship
+
+#Display welcome to the user, and describe program
+
+
+#prompt name and age, and years of U.S. citizenship for users
+
+# try/except for user input strings instead of integers
+
+
+#Use a decision structure to determine if the user is eligible
+# if age is equal to 18 and Citizenship is equal to 1 then
+# they possibly can qualify for us senate or house under conditions
+
+# first condition must be >= to 25 yrs of age and citizenship must be >= to 7yrs for house
+
+#second condition must be >= 30 yrs of age and citizenship must >= 9 for us senate
+
+#third if under age of 18 and citizenship is less than one, then they do not qualify.
+# If they do not qualify then restart program.
+
+# call main function

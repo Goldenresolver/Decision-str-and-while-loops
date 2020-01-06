@@ -1,0 +1,5 @@
+1)Personal Pizza,$6.00
+2) Pretzel,$2.50
+3)Chips,$ 1.25
+4) Hot Dog,$3.75
+5)Exit
